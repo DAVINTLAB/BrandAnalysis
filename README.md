@@ -9,9 +9,6 @@ Please, refer to this work by citing the following paper: Joana P. Scherer, Pedr
 We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
 
 Isabel H. Manssour -- Professor Coordinator of DaVInt -- 2017-current.
-
 Milene S. Silveira -- Professor of DaVInt -- 2017-current.
-
 Joana P. Scherer -- Master Student in Computer Science -- 2017-2021.
-
 Pedro Henrique Morais Sanvido -- Master Student in Computer Science -- 2018-2021.
